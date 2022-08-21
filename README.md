@@ -6,3 +6,4 @@ Their is a timer which shows how much time you have taken to do that.
 This game helps you to increase your mental recognition and memorization power.
 I will sure that you will love it. 
 Thanks. Here is the link :
+https://siddhantagrawa1.github.io/Memo/
